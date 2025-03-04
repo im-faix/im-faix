@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Spring,J2EE,Linux,Advanced Java**
 
-- 🤝 I’m looking for help with **Java Programs , Web and SQL**
+- 🤝 I’m looking for help with **Java Programs , DevOps and SQL**
 
-- 💬 Ask me about **Java, Web(HTML,CSS,JavaScript), Python**
+- 💬 Ask me about **Java, DevOps,SQL**
 
 - 📫 How to reach me **mohammedfaizanhere@gmail.com**
 
