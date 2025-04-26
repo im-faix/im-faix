@@ -1,13 +1,13 @@
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 
 <h1 align="center">Hi 👋, I'm Mohammed Faizan</h1>
-<h3 align="center">A passionate Java Full Stack developer from India</h3>
+<h3 align="center">DevOps Enthusiast | Java Full Stack Developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqdas29w9nPrpAzGAq_50xEHyBiOq9DAMekg&s">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=im-faix&label=Profile%20views&color=0e75b6&style=flat" alt="im-faix" /> </p>
 
-- 🌱 I’m currently learning **Spring,J2EE,Linux,Advanced Java**
+- 🌱 I’m currently learning **Spring,Kubernetes,Docker,Terraform**
 
 - 🤝 I’m looking for help with **Java Programs , DevOps and SQL**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mohammedfaizanhere@gmail.com**
 
-- ⚡ Fun fact **Minding my own Buisness**
+- ⚡ Fun fact **Minding my own business and pushing code one commit at a time 🚀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
