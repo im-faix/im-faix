@@ -113,6 +113,11 @@ You can view or download my resume here:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=im-faix&theme=tokyonight" width="48%" />
 </p>
 
+<p align="left">
+ <p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-faix&layout=compact&theme=tokyonight" width="48%" />
+</p>
+
 ---
 
 ## 🔗 Connect With Me
