@@ -16,22 +16,20 @@ Welcome to my DevOps Portfolio! I'm **Mohammed Faizan**, a dedicated DevOps Engi
 
 ---
 
-## 🛠️ Tech Stack & Tools
-
-| Domain              | Tools & Technologies                                                                 |
-|---------------------|----------------------------------------------------------------------------------------|
-| Cloud               | AWS (EC2, S3, IAM, ECS Fargate, CloudWatch)                                          |
-| Containers          | Docker, Docker Compose                                                               |
-| Orchestration       | Kubernetes (minikube, k3s)                                                            |
-| Infrastructure as Code | Terraform                                                                           |
-| CI/CD Pipelines     | GitHub Actions, Jenkins                                                              |
-| Version Control     | Git, GitHub                                                                           |
-| Monitoring          | Prometheus, Grafana                                                                  |
-| Scripting & OS      | Linux (Ubuntu/Kali), Bash/Shell                                                      |
-| Others              | Postman, Maven, NGINX,   Java, Python basics , Spring Boot , Oracle SQL                 |
-
 ---
 
+## [![⚡ Tech Stack & Tools I Use](https://img.shields.io/badge/Tech_Stack_%26_Tools_I_Use-FF6347?style=for-the-badge&logo=tools&logoColor=white)](https://github.com/NotHarshhaa)  
+
+![tech](https://imgur.com/RknLHXQ.png)
+
+| ☁️ Cloud & Platforms | 🔧 DevOps & CI/CD | 🐳 Containers & Orchestration | 📊 Monitoring & Infra | 🚀 IaC & Automation | 💻 Programming & Frameworks |
+|----------------|----------------|----------------|----------------|----------------|--------------------------|
+| ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) | ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) | ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) | ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) |
+| ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) | ![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) | ![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) | | ![SQL](https://img.shields.io/badge/SQL-%23007ACC.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
+| | ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) | | ![SonarQube](https://img.shields.io/badge/SonarQube-%23000000.svg?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) | | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) |
+
+
+---
 ## 🔥 Key Projects
 
 ### 📦 Medusa Backend Deployment (PearlThoughts Task)
