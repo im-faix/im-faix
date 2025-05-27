@@ -47,7 +47,7 @@ Welcome to my DevOps Portfolio! I'm **Mohammed Faizan**, a dedicated DevOps Engi
 ### 🎓 Course Management System
 > A dynamic full-stack web application to manage courses, users, and sessions—built using Java technologies.
 
-- 🧱 **Tech Stack**: Java, JSP/Servlets, JDBC, PostgreSQL
+- 🧱 **Tech Stack**: Java, Spring Boot, PostgreSQL
 - ✨ Features:
   - Role-based access (Instructor/Student)
   - CRUD operations for course and user management
