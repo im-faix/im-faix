@@ -1,7 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=Hi,+I'm+Mohammed_Faizan+%F0%9F%91%8B;DevOps+Engineer;Cloud+&+Automation+Enthusiast)
-# 🚀 DevOps Portfolio – Mohammed Faizan
+# Hii I'm Mohammed Faizan
 
-Welcome to my DevOps Portfolio! I'm **Mohammed Faizan**, a dedicated DevOps Engineer Trainee with hands-on experience in deploying cloud-native applications, automating CI/CD pipelines, and working with modern DevOps tools. This portfolio is a reflection of my practical learning, hands-on challenges, and real-world DevOps tasks.
+Welcome to my GitHub Account! I'm **Mohammed Faizan**, a dedicated DevOps Engineer Trainee with hands-on experience in deploying cloud-native applications, automating CI/CD pipelines, and working with modern DevOps tools. This portfolio is a reflection of my practical learning, hands-on challenges, and real-world DevOps tasks.
 
 ---
 
