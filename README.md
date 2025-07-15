@@ -1,16 +1,14 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=Hi,+I'm+Mohammed_Faizan+%F0%9F%91%8B;DevOps+Engineer;Cloud+&+Automation+Enthusiast)
-# Hii I'm Mohammed Faizan
+# Hii I'm **Mohammed Faizan**
 
-Welcome to my GitHub Account! I'm **Mohammed Faizan**, a dedicated DevOps Engineer Trainee with hands-on experience in deploying cloud-native applications, automating CI/CD pipelines, and working with modern DevOps tools. This portfolio is a reflection of my practical learning, hands-on challenges, and real-world DevOps tasks.
+A dedicated Associate DevOps Engineer  with hands-on experience in deploying cloud-native applications, automating CI/CD pipelines, and working with modern DevOps tools. This portfolio is a reflection of my practical learning, hands-on challenges, and real-world DevOps tasks.
 
 ---
 
 ## 🧑‍💻 About Me
 
 - 🔧 **DevOps Engineer Trainee** actively building scalable and automated systems.
-- 🌐 Skilled in deploying cloud applications using **AWS**, **Docker**, **GitHub Actions**, and **Terraform**.
-- 🎓 BCA Graduate | Self-taught DevOps Enthusiast | Always Curious
-- 🛠️ Learning DevOps by **doing projects**, contributing to open source, and solving real-world deployment challenges.
++ 🔧 **Associate DevOps Engineer** at FireFlink, building cloud-native and automated infrastructure.
 - 📫 Email: **mohammedfaizanhere@gmail.com**
 - 📍 Based in **India** | Open to Freelance, Internship, and Full-Time Roles
 
