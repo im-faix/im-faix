@@ -7,8 +7,7 @@ A dedicated Associate DevOps Engineer  with hands-on experience in deploying clo
 
 ## 🧑‍💻 About Me
 
-- 🔧 **DevOps Engineer Trainee** actively building scalable and automated systems.
-+ 🔧 **Associate DevOps Engineer** at FireFlink, building cloud-native and automated infrastructure.
+- 🔧 **Associate DevOps Engineer** actively building scalable and automated systems.
 - 📫 Email: **mohammedfaizanhere@gmail.com**
 - 📍 Based in **India** | Open to Freelance, Internship, and Full-Time Roles
 
