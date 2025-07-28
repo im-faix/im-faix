@@ -88,7 +88,7 @@ A dedicated Associate DevOps Engineer  with hands-on experience in deploying clo
 
 You can view or download my resume here:
 
-- [Mohammed Faizan Resume (PDF)](https://github.com/im-faix/DevOps-portfolio/blob/main/resources/Mohammed-Faizan_Resume.pdf)
+- [Mohammed Faizan Resume (PDF)]([https://github.com/im-faix/DevOps-portfolio/blob/main/resources/Mohammed-Faizan_Resume.pdf](https://github.com/im-faix/DevOps-portfolio-optional/blob/main/public/Mohammed-Faizan_Resume-1.pdf))
 ---
 ## 📜 Certificates
 
