@@ -97,6 +97,10 @@ You can view or download my resume here:
 
 ---
 
+
+
+
+
 ## 📈 GitHub Stats
 
 <p align="left">
@@ -105,9 +109,10 @@ You can view or download my resume here:
 </p>
 
 <p align="left">
- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-faix&layout=compact&theme=tokyonight" width="48%" />
 </p>
+
+
 
 ---
 
@@ -134,7 +139,7 @@ You can view or download my resume here:
 
 
 ---
-🔥 Let's Build Together!
-💡 Always open to contributions, learning, and growing through real-world projects and DevOps best practices. Feel free to check out my repositories and drop a star ⭐ if you like them!
+🔥 Let's Build Together!  
+💡 Open to collaboration on DevOps and cloud-native projects, learning from real-world challenges, and improving system reliability.  
 
-⚙️ "Automation is my passion, learning is my fuel, and DevOps is the future I’m building."
+⚙️ *“Automate. Learn. Improve.”*
