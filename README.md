@@ -19,11 +19,11 @@ A dedicated Associate DevOps Engineer  with hands-on experience in deploying clo
 
 ![tech](https://imgur.com/RknLHXQ.png)
 
-| ☁️ Cloud & Platforms | 🔧 DevOps & CI/CD | 🐳 Containers & Orchestration | 📊 Monitoring & Infra | 🚀 IaC & Automation | 💻 Programming & Frameworks |
-|----------------|----------------|----------------|----------------|----------------|--------------------------|
-| ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) | ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) | ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) | ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) |
-|| ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) | ![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) |  | ![SQL](https://img.shields.io/badge/SQL-%23007ACC.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
-| | ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) | |  | | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) |
+| ☁️ Cloud & Platforms | 🔧 CI/CD, DevOps & GitOps | 🐳 Containers & Orchestration | 📊 Monitoring & Infra | 🚀 IaC & Automation | 💻 Programming & Frameworks | 🔐 Security & Secrets Management | 
+|----------------|----------------|----------------|----------------|----------------|--------------------------| ---------------------- |
+| ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) | ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) | ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) | ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) | ![Vault](https://img.shields.io/badge/Vault-%23000000.svg?style=for-the-badge&logo=vault&logoColor=white) |
+|| ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) | ![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) |  | ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
+| | ![Argo CD](https://img.shields.io/badge/Argo%20CD-%23EF7B4D.svg?style=for-the-badge&logo=argo&logoColor=white)|![Helm](https://img.shields.io/badge/Helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white) | ![ELK Stack](https://img.shields.io/badge/ELK%20Stack-%23005571.svg?style=for-the-badge&logo=elasticstack&logoColor=white) | | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) |  
 
 
 ---
@@ -74,14 +74,10 @@ A dedicated Associate DevOps Engineer  with hands-on experience in deploying clo
 
 ## 🧠 Learning Journey
 
-- ✅ Linux Essentials: File management, services, cron jobs
-- ✅ Git & GitHub: Branching, merge conflicts, pull requests
-- ✅ AWS: EC2, S3, IAM, ECS, ECR, Fargate
-- ✅ Terraform: Basic to Intermediate (modular infra, remote backends)
-- ✅ Docker: Image creation, Dockerfile optimization, Docker Compose
-- ✅ CI/CD: GitHub Actions with secrets and conditional jobs
-- 🔄 Kubernetes: Currently learning minikube + Helm + Ingress
-- 🔄 Monitoring/Logging: Exploring ELK stack and Prometheus
+- 🔄 Kubernetes & GitOps: minikube, Helm chart deployments, Argo CD-based GitOps workflows
+- 🔄 Secrets Management: Exploring HashiCorp Vault for secure credentials and configuration
+- 🔄 Databases: Hands-on with MongoDB for backend data persistence
+
 
 ---
 ## 📄 Resume
